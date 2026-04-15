@@ -6,7 +6,7 @@
 import React from "react";
 import { View, Text, StyleSheet, TouchableOpacity } from "react-native";
 
-import styles from "../styles/novaConsulta.style";
+import styles from "../styles/novaConsultas";
 
 type NovaConsultaScreenProps = {
   navigation: any;
